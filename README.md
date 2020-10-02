@@ -1,6 +1,12 @@
 # applicant-test
 
-## Project setup
+## Number Input
+```
+Click the button to add more input field with random value which will compute the sum in accordance with the updated input value
+using two way data binding.
+```
+
+### Project setup
 ```
 npm install
 ```
